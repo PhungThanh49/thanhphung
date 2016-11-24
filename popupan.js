@@ -1,5 +1,5 @@
 
-	var url_popup = 'http://bit.ly/2fuZoBF';
+	var url_popup = 'http://docbao.vn';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';

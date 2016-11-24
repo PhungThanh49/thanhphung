@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://muanhansam.com' target='_blank'><img src='http://http://muanhansam.com/wp-content/uploads/2016/11/caohongsam-1-hop.jpg' width='500px'/><br/> Nơi Mua Nhân Sâm Hàn Quốc Chất Lượng</a>. CÔNG TY TNHH XUYÊN THÁI BÌNH DƯƠNG<h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='http://muanhansam.com' target='_blank'><img src='http://http://http://muanhansam.com/product/cao-hong-sam-hop-go/'/><br/> Nơi Mua Nhân Sâm Hàn Quốc Chất Lượng</a>. CÔNG TY TNHH XUYÊN THÁI BÌNH DƯƠNG<h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
